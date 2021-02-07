@@ -17,21 +17,5 @@ a {
   color: #000;
 }
 
-.header {
-  grid-area: h;
-  background-color: #ccc;
-}
 
-.header img {
-  width: 20px;
-}
 
-.nav {
-  grid-area: n;
-  background-color: beige;
-}
-
-.profile {
-  grid-area: c;
-  background-color: cadetblue;
-}
