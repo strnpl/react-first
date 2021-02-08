@@ -5,10 +5,10 @@ const Nav = () => {
     <nav className={classes.nav}>
       <ul>
         <li className={classes.item}>
-          <a href="http://www.vk.com/strnpl">Profile</a>
+          <a href="/profile">Profile</a>
         </li>
         <li className={classes.item}>
-          <a href="#">Messages</a>
+          <a href="/dialogs">Messages</a>
         </li>
         <li className={classes.item}>
           <a href="#">News</a>
